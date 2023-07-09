@@ -140,3 +140,44 @@
     background-color: black;
 
 }
+
+
+/* footer section styles */
+footer {
+    background-color: black;
+    padding: 200px 150px;
+}
+
+.footer-photo {
+    width: 250px;
+}
+
+
+.footer-description {
+    color: white;
+    margin-bottom: 15px;
+}
+
+
+.footer-title {
+    color: white;
+    margin-bottom: 30px;
+}
+
+
+.footer-container {
+    display: flex;
+    justify-content: space-around;
+    gap: 50px;
+    align-items: center;
+}
+
+.footer-item {
+    width: 50%;
+}
+
+.footer-description-one {
+    color: white;
+    line-height: 30px;
+    margin-top: 20px;
+}
